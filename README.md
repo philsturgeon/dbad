@@ -4,12 +4,19 @@ As developers we all want to protect our code from dicks that try to steal, sell
 
 Sometimes however, you release a project where you just don't care what happens to the code. For this Sam Hocevar created the WTFPL which is a brilliant license.
 
-For those of you who want something in between, try the [DBAD license](LICENSE.md).
+For those of you who want something in between, try the [DBAD license][en].
 
-[Bulgarian][bul] - Ivan Yonov
-[Dutch][dutch] - John Schop
-[French][fr] - [Alexis Serneels](https://twitter.com/alexisserneels)
-[Italian][it] - [StickGrinder](https://twitter.com/StickGrinder)
-[Spanish][sp] - Jano Garcia
+## Translations
 
-  [bul]: []
+* [Bulgarian][bg] - Ivan Yonov
+* [Dutch][nl] - John Schop
+* [French][fr] - [Alexis Serneels](https://twitter.com/alexisserneels)
+* [Italian][it] - [StickGrinder](https://twitter.com/StickGrinder)
+* [Spanish][es] - Jano Garcia
+
+[en]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-en.md
+[es]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
+[bg]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg
+[nl]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl
+[fr]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr
+[it]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
