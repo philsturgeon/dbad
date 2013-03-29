@@ -13,7 +13,7 @@ Se autoriza la reproducción y distribución de las copias del presente document
 
 	Ser un capullo incluye - pero no está limitado a - los siguientes casos:
 
-	1a. Infracción total del derecho de copia - No te limites a simplemente copiar el trabajo y cambiarle de nombre.
+	1a. Infracción total del derecho de copia - No te limites a simplemente copiar el trabajo y cambiarlo de nombre.
 	1b. Vender el trabajo original sin haber aportado absolutamente nada nuevo, eso sí que es ser un VERDADERO capullo.
 	1c. Modificar el trabajo original para incluirle de manera oculta código malicioso. Eso significaría que eres un capullo INTEGRAL.
 
