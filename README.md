@@ -10,7 +10,7 @@ For those of you who want something in between, try the [DBAD license][en].
 
 * [Bulgarian][bg] - Ivan Yonov
 * [Dutch][nl] - John Schop
-* [French][fr] - [Alexis Serneels](https://twitter.com/alexisserneels)
+* [French][fr] - [Alexis Serneels](https://twitter.com/alexisserneels) corrected by [Valentin Rocher](http://tumblr.sweetlygeek.eu)
 * [Italian][it] - [StickGrinder](https://twitter.com/StickGrinder)
 * [Spanish][es] - Jano Garcia
 
@@ -18,5 +18,5 @@ For those of you who want something in between, try the [DBAD license][en].
 [es]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
 [bg]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg
 [nl]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl
-[fr]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr
+[fr]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr.md
 [it]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
