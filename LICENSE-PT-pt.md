@@ -8,7 +8,7 @@
  copias deste documento de licença, e as mudanças é permetido desde
  que mude o nome.
 
-> LICENÇA PUBLIC NÃO SEJAS UM PALERMA
+> LICENÇA PUBLIC NÃO SEJAS UM PALERMA  
 > TERMOS E CONDIÇÕES DE COPIAR, DISTRIBUIÇÃO E MODIFICAÇÃO.
 
  1. Faz o que quiseres com o trabalho original, apenas não sejas um palerma.
