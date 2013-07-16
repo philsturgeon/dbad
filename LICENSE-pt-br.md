@@ -7,8 +7,6 @@
 modificadas deste documento de licença, e alterá-lo é permitido
 desde que o nome seja mudado.
  
- 
-
 > LICENÇA PÚBLICA NÃO SEJA UM IMBECIL
 > TERMOS E CONDIÇÕES PARA CÓPIA, DISTRIBUIÇÃO E MODIFICAÇÃO
 
