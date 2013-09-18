@@ -21,4 +21,4 @@ For those of you who want something in between, try the [DBAD license][en].
 [nl]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl
 [fr]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr
 [it]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
-[pt-br]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pr-br.md
+[pt-br]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-br.md
