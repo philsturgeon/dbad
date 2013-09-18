@@ -16,7 +16,7 @@ For those of you who want something in between, try the [DBAD license][en].
 * [Spanish][es] - Jano Garcia
 * [Portuguese (Brazil)][pt-br] - [Yarkhan](https://github.com/Yarkhan)
 
-[ce]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-de.md
+[de]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-de.md
 [en]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-en.md
 [es]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
 [bg]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg
