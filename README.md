@@ -13,6 +13,7 @@ For those of you who want something in between, try the [DBAD license][en].
 * [French][fr] - [Alexis Serneels](https://twitter.com/alexisserneels)
 * [Italian][it] - [StickGrinder](https://twitter.com/StickGrinder)
 * [Spanish][es] - Jano Garcia
+* [Portuguese (Brazil)][pt-br] - [Yarkhan](https://github.com/Yarkhan)
 
 [en]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-en.md
 [es]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
@@ -20,3 +21,4 @@ For those of you who want something in between, try the [DBAD license][en].
 [nl]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl
 [fr]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr
 [it]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
+[pt-br]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pr-br
