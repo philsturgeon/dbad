@@ -20,7 +20,7 @@
 	 1b. Sprzedawanie niezmodyfikowanego oryginału bez włożenia w niego żadnej
        pracy, to jest ISTNE chujostwo.  
 	 1c. Dodawanie do oryginału szkodliwej treści. To by świadczyło o Twoim
-       byciem chujem WŁAŚCIWYM.
+       byciu chujem WŁAŚCIWYM.
 
  2. Jeżeli wzbogacisz się poprzez modyfikacje, pokrewne dzieła/usługi, lub
     wspieranie oryginału, podziel się szczęściem. Jedynie chuj by zarobił
