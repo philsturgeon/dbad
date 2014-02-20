@@ -16,6 +16,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Italian] - [StickGrinder](https://twitter.com/StickGrinder)
 * [Russian] - [Stanislav Tamat](https://github.com/YokiToki)
 * [Spanish] - Jano Garcia
+* [Swedish] - [Joseph Landberg](https://github.com/golonka)
 * [Portuguese Brazilian] - [Yarkhan](https://github.com/Yarkhan)
 * [Polish] - [Milosz Kosmider](http://github.com/mrmilosz)
 
@@ -25,11 +26,12 @@ For those of you who want something in between, try the [DBAD license].
 
 [Bahasa Indonesia]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ID.md
 [German]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-de.md
-[Spanish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
 [Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg
 [Dutch]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl
 [French]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr.md
 [Italian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
-[Russian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ru.md
 [Portuguese Brazilian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-br.md
 [Polish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pl
+[Russian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ru.md
+[Spanish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
+[Swedish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-sv.md
