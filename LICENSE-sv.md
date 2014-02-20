@@ -26,6 +26,6 @@
  sprid kärleken. Bara ett rövhål skulle tjäna storkovan på verket utan att bjuda de urspungliga 
  skaparna utan att bjuda dem på en pint.
  
- 3. Koden tillhandahålls utan garanti. Att använda någon annans kod och sedan tjafsa när något 
+ 3. Koden tillhandahålls utan garantier. Att använda någon annans kod och sedan tjafsa när något 
  går fel innebär att du är ett ordentligt rövhål. Åtgärda problemet själv. Ett icke-rövhål 
  skulle lämna en fix.
