@@ -23,7 +23,7 @@ For those of you who want something in between, try the [DBAD license].
 
 
 [DBAD license]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-en.md
-[WTFPL]: www.wtfpl.net
+[WTFPL]: http://www.wtfpl.net
 
 [Bahasa Indonesia]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ID.md
 [German]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-de.md
@@ -31,7 +31,7 @@ For those of you who want something in between, try the [DBAD license].
 [Dutch]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl.md
 [French]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr.md
 [Hebrew]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-he.md
-[Italian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
+[Italian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it.md
 [Portuguese Brazilian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-br.md
 [Polish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pl.md
 [Russian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ru.md
