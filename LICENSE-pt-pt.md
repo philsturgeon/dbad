@@ -8,7 +8,7 @@
  desta licença, e a sua alteração é também permitida, desde que o
  nome seja alterado.
 
-> NÃO SEJA UM IDIOTA
+> LICENÇA NÃO SEJA UM IDIOTA,
 > TERMOS E CONDIÇÕES PARA COPIAR, DISTRIBUIR E MODIFICAR
 
  1. Faça o que quiser com o trabalho original desde que não seja um idiota.
@@ -16,7 +16,9 @@
      Ser um idiota incluí - mas não está limitado a - as seguintes situações:
 
      1a. Plágio - Não copie o trabalho original, apenas alterando o nome.
+
      1b. Vender o código original, sem qualquer trabalho extra - isso é REALMENTE ser um idiota.
+
      1c. Modificar o trabalho original de forma a incluir conteúdo malicioso oculto. Isso faria com que
      fosse um COMPLETO imbecil.
 
