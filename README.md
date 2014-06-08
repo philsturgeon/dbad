@@ -14,6 +14,7 @@ For those of you who want something in between, try the [DBAD license].
 * [French] - [Alexis Serneels](https://twitter.com/alexisserneels) and [Valentin Rocher](http://tumblr.sweetlygeek.eu)
 * [German] - [mr-ravioli](http://github.com/mr-ravioli)
 * [Italian] - [StickGrinder](https://twitter.com/StickGrinder)
+* [Romanian] - [Adrian Voicu](https://github.com/avenirer/)
 * [Russian] - [Stanislav Tamat](https://github.com/YokiToki)
 * [Spanish] - Jano Garcia
 * [Swedish] - [Joseph Landberg](https://github.com/golonka)
@@ -32,6 +33,7 @@ For those of you who want something in between, try the [DBAD license].
 [Italian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
 [Portuguese Brazilian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-br.md
 [Polish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pl
+[Romanian]: https://github.com/philsturgeon/dbad/blob/master/LICENCE-ro.md
 [Russian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ru.md
 [Spanish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
 [Swedish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-sv.md
