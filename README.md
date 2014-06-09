@@ -19,6 +19,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Spanish] - Jano Garcia
 * [Swedish] - [Joseph Landberg](https://github.com/golonka)
 * [Portuguese Brazilian] - [Yarkhan](https://github.com/Yarkhan)
+* [Portuguese Portugal] - [Rui Gomes](https://github.com/ruigomeseu)
 * [Polish] - [Milosz Kosmider](http://github.com/mrmilosz)
 
 
@@ -32,6 +33,7 @@ For those of you who want something in between, try the [DBAD license].
 [French]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr.md
 [Italian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
 [Portuguese Brazilian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-br.md
+[Portuguese Portugal]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-pt.md
 [Polish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pl
 [Romanian]: https://github.com/philsturgeon/dbad/blob/master/LICENCE-ro.md
 [Russian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ru.md
