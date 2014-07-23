@@ -11,6 +11,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Bahasa Indonesia] - [Sentabi](https://github.com/sentabi)
 * [Bulgarian] - Ivan Yonov
 * [Dutch] - John Schop
+* [Farsi/Persian] - [Majid Sadeghi G.](https://github.com/dijam)
 * [French] - [Alexis Serneels](https://twitter.com/alexisserneels) and [Valentin Rocher](http://tumblr.sweetlygeek.eu)
 * [German] - [mr-ravioli](http://github.com/mr-ravioli)
 * [Italian] - [StickGrinder](https://twitter.com/StickGrinder)
@@ -31,6 +32,7 @@ For those of you who want something in between, try the [DBAD license].
 [Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg
 [Dutch]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl
 [French]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr.md
+[Farsi/Persian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fa.md
 [Italian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
 [Portuguese Brazilian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-br.md
 [Portuguese Portugal]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-pt.md
