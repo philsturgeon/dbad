@@ -14,6 +14,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Farsi/Persian] - [Majid Sadeghi G.](https://github.com/dijam)
 * [French] - [Alexis Serneels](https://twitter.com/alexisserneels) and [Valentin Rocher](http://tumblr.sweetlygeek.eu)
 * [German] - [mr-ravioli](http://github.com/mr-ravioli)
+* [Hebrew] - [Damiano Venturin](http://github.com/damko) and Mali Shor
 * [Italian] - [StickGrinder](https://twitter.com/StickGrinder)
 * [Romanian] - [Adrian Voicu](https://github.com/avenirer/)
 * [Russian] - [Stanislav Tamat](https://github.com/YokiToki)
@@ -25,18 +26,19 @@ For those of you who want something in between, try the [DBAD license].
 
 
 [DBAD license]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-en.md
-[WTFPL]: www.wtfpl.net
+[WTFPL]: http://www.wtfpl.net
 
 [Bahasa Indonesia]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ID.md
 [German]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-de.md
-[Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg
-[Dutch]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl
+[Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg.md
+[Dutch]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl.md
 [French]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr.md
 [Farsi/Persian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fa.md
-[Italian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it
+[Hebrew]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-he.md
+[Italian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it.md
+[Polish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pl.md
 [Portuguese Brazilian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-br.md
 [Portuguese Portugal]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-pt.md
-[Polish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pl
 [Romanian]: https://github.com/philsturgeon/dbad/blob/master/LICENCE-ro.md
 [Russian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ru.md
 [Spanish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
