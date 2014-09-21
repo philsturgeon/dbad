@@ -13,12 +13,13 @@
 
  1. Tee mitä haluat alkuperäiselle työlle, älä vain ole mulkku.
     
-	 Mulkuksi olemiseen lasketaan nämä - mutta ei vain nämä - tapaukset:
+    Mulkuksi olemiseen lasketaan nämä - mutta ei vain nämä - tapaukset:
 	 
-	 1a. Suoranainen tekijänoikeusrikkomus - Älä vain kopioi tätä ja muuta nimeä.
-	 1b. Alkuperäisen työn myyminen ilman minkäänlaista omaa panosta, silloin olisit TODELLA mulkku.
-	 1c. Alkuperäisen työn muuttaminen niin, että se sisältää piilotettua ja haitallista sisältöä. 
-	     Se tekisi sinusta TODELLISEN mulkun.
+        1a. Suoranainen tekijänoikeusrikkomus - Älä vain kopioi tätä ja muuta nimeä.
+        1b. Alkuperäisen työn myyminen ilman minkäänlaista omaa panosta, 
+            silloin olisit TODELLA mulkku.
+        1c. Alkuperäisen työn muuttaminen niin, että se sisältää piilotettua ja
+            haitallista sisältöä. Se tekisi sinusta TODELLISEN mulkun.
 	 
  2. Jos tulet rikkaaksi muutoksillasi, aiheeseen liittyvillä töillä / palveluilla, tai tukemalla
  alkuperäistä työtä, jaa rakkautesi. Vain mulkku tekisi isoja tuottoja tällä työllä ja sitten
