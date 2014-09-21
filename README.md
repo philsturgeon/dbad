@@ -12,6 +12,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Bulgarian] - Ivan Yonov
 * [Dutch] - John Schop
 * [Farsi/Persian] - [Majid Sadeghi G.](https://github.com/dijam)
+* [Finnish] - [39Bit / CosmoConsole] (https://github.com/39bit)
 * [French] - [Alexis Serneels](https://twitter.com/alexisserneels) and [Valentin Rocher](http://tumblr.sweetlygeek.eu)
 * [German] - [mr-ravioli](http://github.com/mr-ravioli)
 * [Hebrew] - [Damiano Venturin](http://github.com/damko) and Mali Shor
@@ -32,6 +33,7 @@ For those of you who want something in between, try the [DBAD license].
 [German]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-de.md
 [Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg.md
 [Dutch]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl.md
+[Finnish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fi.md
 [French]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr.md
 [Farsi/Persian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fa.md
 [Hebrew]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-he.md
