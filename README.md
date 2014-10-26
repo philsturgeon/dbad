@@ -23,6 +23,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Portuguese Brazilian] - [Yarkhan](https://github.com/Yarkhan)
 * [Portuguese Portugal] - [Rui Gomes](https://github.com/ruigomeseu)
 * [Polish] - [Milosz Kosmider](http://github.com/mrmilosz)
+* [Ukrainian] - [Anton Maminov](http://github.com/mamantoha)
 
 
 [DBAD license]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-en.md
@@ -43,3 +44,4 @@ For those of you who want something in between, try the [DBAD license].
 [Russian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ru.md
 [Spanish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
 [Swedish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-sv.md
+[Ukrainian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ua.md
