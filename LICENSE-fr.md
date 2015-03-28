@@ -18,7 +18,7 @@ doit en être modifié.
 
          1a. La complète violation des droits d’auteur. Ne vous contentez pas de
              copier l’œuvre en changeant juste le nom.
-         1b. Vendre de l'œuvre originale non modifiée et sans y avoir absolument
+         1b. Vendre l'œuvre originale non modifiée et sans y avoir absolument
              apporté aucun travail, c’est être VRAIMENT un connard.
          1c. Modifier l’œuvre originale afin d’y insérer du contenu caché
              préjudiciable. Cela ferait de vous un AUTHENTIQUE connard.
