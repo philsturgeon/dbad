@@ -3,7 +3,7 @@
 > Version 1, December 2009
 
 > Copyright (C) 2009 Philip Sturgeon <me@philsturgeon.uk>
-> Preklad ~ Jakub Fiala <jakubfiala@me.com>
+> Preklad ~ Jakub Fiala [fiala.uk](http://fiala.uk)
 
  Tento dokument je dovolené rozmnožovať a šíriť v identickej, alebo modifikovanej forme, 
  a jeho modifikácie sú povolené pod názvom odlišným od pôvodného dokumentu.
