@@ -19,6 +19,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Italian] - [StickGrinder](https://twitter.com/StickGrinder)
 * [Romanian] - [Adrian Voicu](https://github.com/avenirer/)
 * [Russian] - [Stanislav Tamat](https://github.com/YokiToki)
+* [Slovak] - [jakubfiala](http://github.com/jakubfiala)
 * [Spanish] - Jano Garcia
 * [Swedish] - [Joseph Landberg](https://github.com/golonka)
 * [Portuguese Brazilian] - [Yarkhan](https://github.com/Yarkhan)
