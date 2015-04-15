@@ -1,4 +1,4 @@
-# DON'T BE A DICK PUBLIC LICENSE
+# VERREJNÁ LICENCIA "NEBUĎ TRT"
 
 > Version 1, December 2009
 
