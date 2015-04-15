@@ -5,11 +5,6 @@
 > Copyright (C) 2009 Philip Sturgeon <me@philsturgeon.uk>
 > Preklad ~ Jakub Fiala <jakubfiala@me.com>
 
- 
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
-
  Tento dokument je dovolené rozmnožovať a šíriť v identickej, alebo modifikovanej forme, 
  a jeho modifikácie sú povolené pod názvom odlišným od pôvodného dokumentu.
 
