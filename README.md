@@ -10,6 +10,7 @@ For those of you who want something in between, try the [DBAD license].
 
 * [Bahasa Indonesia] - [Sentabi](https://github.com/sentabi)
 * [Bulgarian] - Ivan Yonov
+* [Chinese] - [Limi Quens](https://github.com/LimiQS) and [Jiang Chen](https://github.com/JC6)
 * [Dutch] - John Schop
 * [Farsi/Persian] - [Majid Sadeghi G.](https://github.com/dijam)
 * [Finnish] - [39Bit / CosmoConsole] (https://github.com/39bit)
@@ -34,6 +35,7 @@ For those of you who want something in between, try the [DBAD license].
 [Bahasa Indonesia]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ID.md
 [German]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-de.md
 [Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg.md
+[Chinese]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-zh.md
 [Dutch]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl.md
 [Finnish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fi.md
 [French]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr.md
