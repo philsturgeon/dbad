@@ -23,7 +23,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Russian] - [Stanislav Tamat](https://github.com/YokiToki)
 * [Slovak] - [jakubfiala](http://github.com/jakubfiala)
 * [Spanish] - Jano Garcia
-* [Swedish] - [Joseph Landberg](https://github.com/golonka)
+* [Turkish] - [Erol](https://github.com/iaroel)
 * [Portuguese Brazilian] - [Yarkhan](https://github.com/Yarkhan)
 * [Portuguese Portugal] - [Rui Gomes](https://github.com/ruigomeseu)
 * [Polish] - [Milosz Kosmider](http://github.com/mrmilosz)
