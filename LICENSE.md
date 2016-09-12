@@ -2,7 +2,7 @@
 
 > Version 1, December 2009
 
-> Copyright (C) 2009 Philip Sturgeon <me@philsturgeon.uk>
+> Copyright (C) [year] [fullname]
  
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
