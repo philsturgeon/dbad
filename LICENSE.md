@@ -1,12 +1,11 @@
 # DON'T BE A DICK PUBLIC LICENSE
 
-> Version 1, December 2009
+> Version 1.1, December 2016
 
 > Copyright (C) [year] [fullname]
  
  Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
+ copies of this license document.
 
 > DON'T BE A DICK PUBLIC LICENSE
 > TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
