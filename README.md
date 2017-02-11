@@ -14,7 +14,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Traditional Chinese (Taiwan)] - [Yami Odymel](https://github.com/YamiOdymel)
 * [Dutch] - John Schop
 * [Farsi/Persian] - [Majid Sadeghi G.](https://github.com/dijam)
-* [Finnish] - [39Bit / CosmoConsole](https://github.com/39bit)
+* [Finnish] - [39Bit](https://github.com/39bit)
 * [French] - [Alexis Serneels](https://twitter.com/alexisserneels) and [Valentin Rocher](http://tumblr.sweetlygeek.eu)
 * [German] - [mr-ravioli](http://github.com/mr-ravioli)
 * [Hebrew] - [Damiano Venturin](http://github.com/damko) and Mali Shor
