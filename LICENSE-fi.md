@@ -2,7 +2,7 @@
 
 > Version 1, December 2009
 
-> Copyright (C) 2009 Philip Sturgeon <email@philsturgeon.co.uk>
+> Copyright (C) 2009 Phil Sturgeon <me@philsturgeon.uk>
  
  Kaikilla on lupa kopioida ja levittää sanatarkkoja tai muokattuja
  versioita tästä lisenssiasiakirjasta, ja sen muuttaminen on
