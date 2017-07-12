@@ -29,6 +29,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Spanish] - Jano Garcia
 * [Turkish] - [Erol](https://github.com/iaroel)
 * [Ukrainian] - [Anton Maminov](http://github.com/mamantoha)
+* [Greek] - [Thanos Korakas](http://github.com/tkorakas)
 
 
 [DBAD license]: https://github.com/philsturgeon/dbad/blob/master/LICENSE.md
@@ -56,3 +57,5 @@ For those of you who want something in between, try the [DBAD license].
 [Swedish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-sv.md
 [Turkish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-tr.md
 [Ukrainian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ua.md
+[Greek]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-gr.md
+
