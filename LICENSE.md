@@ -23,4 +23,4 @@
  creator(s) a pint.
  
  3. Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes 
- you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back.
+ you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back or just State a nice bug report..
