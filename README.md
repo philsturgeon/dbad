@@ -35,27 +35,27 @@ For those of you who want something in between, try the [DBAD license].
 [DBAD license]: https://github.com/philsturgeon/dbad/blob/master/LICENSE.md
 [WTFPL]: http://www.wtfpl.net
 
-[Bahasa Indonesia]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ID.md
-[Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-bg.md
-[Chinese]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-zh.md
-[Traditional Chinese (Taiwan)]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-zh-tw.md
-[Dutch]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-nl.md
-[Farsi/Persian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fa.md
-[Finnish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fi.md
-[French]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-fr.md
-[German]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-de.md
-[Hebrew]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-he.md
-[Hindi]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-hi.md
-[Italian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-it.md
-[Polish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pl.md
-[Portuguese Brazilian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-br.md
-[Portuguese Portugal]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-pt-pt.md
-[Romanian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ro.md
-[Russian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ru.md
-[Slovak]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-sk.md
-[Spanish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-es.md
-[Swedish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-sv.md
-[Turkish]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-tr.md
-[Ukrainian]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-ua.md
-[Greek]: https://github.com/philsturgeon/dbad/blob/master/LICENSE-gr.md
+[Bahasa Indonesia]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ID.md
+[Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-bg.md
+[Chinese]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh.md
+[Traditional Chinese (Taiwan)]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh-tw.md
+[Dutch]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-nl.md
+[Farsi/Persian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-fa.md
+[Finnish]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-fi.md
+[French]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-fr.md
+[German]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-de.md
+[Hebrew]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-he.md
+[Hindi]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-hi.md
+[Italian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-it.md
+[Polish]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-pl.md
+[Portuguese Brazilian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-pt-br.md
+[Portuguese Portugal]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-pt-pt.md
+[Romanian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ro.md
+[Russian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ru.md
+[Slovak]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-sk.md
+[Spanish]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-es.md
+[Swedish]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-sv.md
+[Turkish]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-tr.md
+[Ukrainian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ua.md
+[Greek]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-gr.md
 
