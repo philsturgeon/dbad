@@ -2,7 +2,8 @@
 
 > Verze 1.1, Prosinec 2016
 
-> Copyright (C) [year] [fullname]
+> Copyright (C) Philip Sturgeon <email@philsturgeon.co.uk>
+> Překlad Martin Kolář <mrmartin.net>
  
  Každý smí kopírovat a distribuovat nezměněné nebo upravené
  kopie tohoto licenčního dokumentu.
@@ -18,8 +19,8 @@
 	 1b. Prodávání nemodifikovaného originálu bez jakékoliv práce, to dělá jen SKUTEČNEJ kokot.
 	 1c. Úprava původního díla aby obsahovalo skrytý škodlivý obsah. To bys byl DĚSNĚJ kokot.
 
- 2. Pokud se zbohatneš prostřednictvím úprav, souvisejících děl/služeb, nebo z podpory původního díla,
+ 2. Pokud se zbohatneš prostřednictvím úprav, souvisejících děl/služeb, nebo z poskytování podpory k původnímu dílu,
  sdílej lásku. Pouze kokot by vytěžil z této práce a nekoupil původnímu tvůrci (tvůrkyni, tvůrcům) pivko.
  
- 3. Kód je poskytován bez záruk. Použití kódu jiného člověka a stežovat si, když jsou problémy dělá jen OSLÍ kokot.
+ 3. Kód je poskytován bez záruk. Použití kódu jiného člověka a stežovat si, když nastanou problémy dělá jen OSLÍ kokot.
  Opravte problém sami. Slušnej ne-kokot opravu sdílí nebo předloží zprávu o chybě.
