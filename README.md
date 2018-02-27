@@ -40,6 +40,7 @@ For those of you who want something in between, try the [DBAD license].
 [Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-bg.md
 [Chinese]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh.md
 [Traditional Chinese (Taiwan)]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh-tw.md
+[Czech]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-cz.md
 [Dutch]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-nl.md
 [Farsi/Persian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-fa.md
 [Finnish]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-fi.md
