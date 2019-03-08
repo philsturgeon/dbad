@@ -14,7 +14,7 @@
 
      Being a dick includes - but is not limited to - the following instances:
 
-	 1a. Outright copyright infringement - Don't just copy this and change the name.  
+	 1a. Outright copyright infringement - Don't just copy the original work/works and change the name.  
 	 1b. Selling the unmodified original with no work done what-so-ever, that's REALLY being a dick.  
 	 1c. Modifying the original work to contain hidden harmful content. That would make you a PROPER dick.  
 
