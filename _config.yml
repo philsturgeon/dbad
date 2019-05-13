@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Don't be a Dick Public License
+email: me@philsturgeon.uk
+description: >
+  Something part way between the WTFPL, MIT and a random piece of text that contains the term donkey dick.
+url: "http://dbad-license.org"
+
+# Build settings
+markdown: kramdown
+
+# Google
+google_analytics: UA-8523256-5
