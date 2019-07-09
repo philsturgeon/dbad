@@ -11,7 +11,7 @@ Gjer kva enn du ønskjer med det opprinnelege verket, men du kan ikkje vere ein 
 
 Å vere ein drittsekk inkluderer - men er ikkje begrensa til - dei følgjende tilfella:
 
-1a. Regelrett opphavsrettsbrot - Ikkje berre kopier det/dei opprinnel2ge verket/verkane og bytte ut skaparnamnet.
+1a. Regelrett opphavsrettsbrot - Ikkje berre kopier det/dei opprinnelege verket/verkane og bytte ut skaparnamnet.
 1b. Å selje det uendra opprinnelege verket utan å ha gjort ytterlegare arbeid på det på noko som helst vis, då er du VERKELEG ein drittsekk.
 1c. Å modifisere det opprinnelege verket slik at det inneheld skjult skadeleg innhald. Det ville gjort deg til ein SKIKKELEG drittsekk.
 
