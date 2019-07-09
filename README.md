@@ -16,23 +16,23 @@ For those of you who want something in between, try the [DBAD license].
 * [Dutch] - John Schop
 * [Farsi/Persian] - [Majid Sadeghi G.](https://github.com/dijam)
 * [Finnish] - [39Bit](https://github.com/39bit)
-* [French] - [Alexis Serneels](https://twitter.com/alexisserneels) and [Valentin Rocher](http://tumblr.sweetlygeek.eu)
-* [German] - [mr-ravioli](http://github.com/mr-ravioli)
-* [Hebrew] - [Damiano Venturin](http://github.com/damko) and Mali Shor
+* [French] - [Alexis Serneels](https://twitter.com/alexisserneels) and [Valentin Rocher](https://tumblr.sweetlygeek.eu)
+* [German] - [mr-ravioli](https://github.com/mr-ravioli)
+* [Hebrew] - [Damiano Venturin](https://github.com/damko) and Mali Shor
 * [Hindi] - [mindnuts](https://github.com/mindnuts)
 * [Italian] - [StickGrinder](https://twitter.com/StickGrinder)
 * [Norwegian Bokmål] - [Imre Kristoffer Eilertsen](https://github.com/DandelionSprout)
 * [Norwegian Nynorsk] - [Imre Kristoffer Eilertsen](https://github.com/DandelionSprout)
-* [Polish] - [Milosz Kosmider](http://github.com/mrmilosz)
+* [Polish] - [Milosz Kosmider](https://github.com/mrmilosz)
 * [Portuguese Brazilian] - [Yarkhan](https://github.com/Yarkhan)
 * [Portuguese Portugal] - [Rui Gomes](https://github.com/ruigomeseu)
 * [Romanian] - [Adrian Voicu](https://github.com/avenirer/)
 * [Russian] - [Stanislav Tamat](https://github.com/YokiToki)
-* [Slovak] - [jakubfiala](http://github.com/jakubfiala)
+* [Slovak] - [jakubfiala](https://github.com/jakubfiala)
 * [Spanish] - Jano Garcia
 * [Turkish] - [Erol](https://github.com/iaroel)
-* [Ukrainian] - [Anton Maminov](http://github.com/mamantoha)
-* [Greek] - [Thanos Korakas](http://github.com/tkorakas)
+* [Ukrainian] - [Anton Maminov](https://github.com/mamantoha)
+* [Greek] - [Thanos Korakas](https://github.com/tkorakas)
 
 
 [DBAD license]: https://github.com/philsturgeon/dbad/blob/master/LICENSE.md
