@@ -1,11 +1,11 @@
-«IKKJE VER EIN DRITTSEKK»-LISENSEN
-Versjon 1.1, Desember 2016
+# «IKKJE VER EIN DRITTSEKK»-LISENSEN
+> Versjon 1.1, Desember 2016
 
-Opphavsrett © [år] [fullt navn]
+> Opphavsrett © [år] [fullt navn]
 
 Alle har tillating til å kopiere og distribuere identiske eller endra kopiar av dette lisensdokumentet.
 
-«IKKJE VER EN DRITTSEKK»-LISENSENS REGLER OG VILKÅR FOR KOPIERING, DISTRIBUSJON, OG MODIFISERING
+> «IKKJE VER EN DRITTSEKK»-LISENSENS REGLER OG VILKÅR FOR KOPIERING, DISTRIBUSJON, OG MODIFISERING
 
 Gjer kva enn du ønskjer med det opprinnelege verket, men du kan ikkje vere ein drittsekk.
 
