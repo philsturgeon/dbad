@@ -17,4 +17,4 @@ Gjør hva enn du vil med det opprinnelige verket, men du kan ikke være en dritt
 
 Hvis du blir rik gjennom modifikasjoner, tilknyttede verker/tjenester, eller ved å støtte det opprinnelige verket, sørg å dele det med verkets skaper. Bare en drittsekk ville ha tjent bøttevis på dette verket uten å deretter kjøpe en stor iskrem til det opprinnelige verkets skaper(e).
 
-Koden blir gjort tilgjengelig uten noen garanti. Å bruke noen andres kode og deretter sutre når det går galt, gjør deg til en STOR drittsekk. Fiks problemet selv. En ikke-drittsekk ville ha sendt inn fiksen til skaperen eller melde inn en feilrapport med fiksen.
+Koden blir gjort tilgjengelig uten noen garanti. Å bruke noen andres kode og deretter sutre når det går galt, gjør deg til en STOR drittsekk. Fiks problemet selv. En ikke-drittsekk ville ha sendt inn fiksen til skaperen eller melde inn en [feilrapport](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) med fiksen.
