@@ -21,6 +21,8 @@ For those of you who want something in between, try the [DBAD license].
 * [Hebrew] - [Damiano Venturin](http://github.com/damko) and Mali Shor
 * [Hindi] - [mindnuts](https://github.com/mindnuts)
 * [Italian] - [StickGrinder](https://twitter.com/StickGrinder)
+* [Norwegian Bokmål] - [Imre Kristoffer Eilertsen](https://github.com/DandelionSprout)
+* [Norwegian Nynorsk] - [Imre Kristoffer Eilertsen](https://github.com/DandelionSprout)
 * [Polish] - [Milosz Kosmider](http://github.com/mrmilosz)
 * [Portuguese Brazilian] - [Yarkhan](https://github.com/Yarkhan)
 * [Portuguese Portugal] - [Rui Gomes](https://github.com/ruigomeseu)
@@ -50,6 +52,8 @@ For those of you who want something in between, try the [DBAD license].
 [Hindi]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-hi.md
 [Hungarian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-hu.md
 [Italian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-it.md
+[Norwegian Bokmål]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-nb.md
+[Norwegian Nynorsk]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-nn.md
 [Polish]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-pl.md
 [Portuguese Brazilian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-pt-br.md
 [Portuguese Portugal]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-pt-pt.md
