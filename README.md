@@ -8,6 +8,7 @@ For those of you who want something in between, try the [DBAD license].
 
 ## Translations
 
+* [Arabic] - [Ahmad Masabni](https://github.com/masabni)
 * [Bahasa Indonesia] - [Sentabi](https://github.com/sentabi)
 * [Bulgarian] - Ivan Yonov
 * [Chinese] - [Limi Quens](https://github.com/LimiQS) and [Jiang Chen](https://github.com/JC6)
@@ -38,6 +39,7 @@ For those of you who want something in between, try the [DBAD license].
 [DBAD license]: https://github.com/philsturgeon/dbad/blob/master/LICENSE.md
 [WTFPL]: http://www.wtfpl.net
 
+[Arabic]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ar.md
 [Bahasa Indonesia]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ID.md
 [Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-bg.md
 [Chinese]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh.md
