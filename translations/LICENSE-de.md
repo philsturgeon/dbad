@@ -1,21 +1,26 @@
-# SEI KEIN ARSCHLOCH - ÖFFENTLICHE LIZENZ
+# SEI KEIN ARSCHLOCH ÖFFENTLICHE LIZENZ
 
-> Version 1, Dezember 2009
+> Version 1.1, Dezember 2016
 
-> Copyright (C) 2009 Philip Sturgeon <email@philsturgeon.co.uk>
+> Copyright (C) [Jahr] [Voller Name]
  
- Jeder hat das Recht dieses Dokument zu verändern und es im selben Wortlaut oder in veränderter Form zu verbreiten. Veränderungen sind nur unter der Bedingung erlaubt, dass auch der Name der Lizenz geändert wird.
+ Jeder hat das Recht, Kopien dieses Dokuments anzufertigen
+ und diese im selben Wortlaut oder in veränderter Form zu verbreiten.
 
-> HINWEISE UND BEDINGUNGEN, DIE DAS KOPIEREN, DIE VERBREITUNG UND DIE MODIFIZIERUNG DER ARBEIT REGELN:
+> SEI KEIN ARSCHLOCH ÖFFENTLICHE LIZENZ
+> BEDINGUNGEN FÜR DAS KOPIEREN, VERBREITEN UND VERÄNDERN
 
- 1. Du kannst mit der ursprünglichen Arbeit machen was du willst solange du dich dabei nicht wie ein Arschloch verhältst.
+ 1. Du kannst mit dem ursprünglichen Werk machen, was du willst, sei dabei einfach kein Arschloch.
 
-     Ein Arschloch zu sein bedeutet unter anderem:
- 
-   1a. Das Begehen von offensichtlichen Copyright Verstößen - Versuche nicht einfach die ursprüngliche Arbeit zu kopieren und sie unter einem anderen Namen zu veröffentlichen.  
-   1b. Die unveränderte Arbeit zu verkaufen ohne selbst einen Beitrag geleistet zu haben. So etwas machen nur Ärsche.  
-	 1c. Die ursprüngliche Arbeit mit verstecktem, schadhaften Inhalt zu präparieren. Das würde dich zu einem richtigen Arsch machen.
+     Ein Arschloch zu sein bedeutet unter anderem, aber nicht ausschließlich:
 
- 2. Wenn du durch das Verändern der Arbeit oder durch die Bereitstellung von Dienstleistungen, die mit der Arbeit in Zusammenhang stehen, reich wirst, verhalte dich nicht wie ein Arsch. Nur ein Arschloch würde Kohle machen ohne den ursprünglichen Autor (oder die ursprünglichen Autoren) auf ein Bier einzuladen.
+     1a. Offensichtliche Urheberrechtsverstöße - Kopiere nicht einfach das ursprüngliche Werk und ändere lediglich den Namen.
+     1b. Verkauf des ursprünglichen Werkes ohne jegliche Veränderung, dann ist man WIRKLICH ein Arschloch.
+     1c. Modifikation des ursprünglichen Werkes, um schädliche Inhalte einzubauen. Dann wärst du ein RICHTIGES Arschloch.
 
- 3. Das Verwenden der Arbeit erfolgt auf eigene Gefahr. Wenn du die Arbeit von jemand anderem verwendest und dich dann beschwerst weil etwas nicht richtig funktioniert, dann bist du ein richtiges Arschloch. Versuche selbst eine Lösung für das Problem zu finden und informiere den ursprünglichen Entwickler über deine Lösung.
+ 2. Wenn du durch Modifikation, relevante Werke/Dienste oder Unterstützen des ursprünglichen Werkes reich wirst,
+ teile das Glück. Nur ein Arschloch würde tonnenweise von diesem Werk profitieren und den/die ursprüngliche(n) AutorIn nicht auf ein Bier einladen.
+
+ 3. Code ist ohne Garantie zur Verfügung gestellt. Die Benutzung des Codes eines anderen und das darauffolgende Nörgeln,
+ wenn etwas schiefgeht, macht dich zu einem RIESEN-Arschloch. Löse das Problem selbst.
+ Ein Nicht-Arschloch würde einen Fix bereitstellen oder einen [Fehlerbericht](https://www.chiark.greenend.org.uk/~sgtatham/bugs-de.html) erstellen.
