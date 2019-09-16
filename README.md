@@ -1,4 +1,4 @@
-# DON'T BE A DICK PUBLIC LICENSE
+# DON'T BE A DICK PUBLIC LICENSE [![](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/philsturgeon)
 
 As developers we all want to protect our code from dicks that try to steal, sell, infringe or just generally rip us off. For this we have licenses like GPL, MIT, etc.
 
