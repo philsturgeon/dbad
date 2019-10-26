@@ -17,7 +17,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Dutch] - John Schop
 * [Farsi/Persian] - [Majid Sadeghi G.](https://github.com/dijam)
 * [Finnish] - [39Bit](https://github.com/39bit)
-* [French] - [Alexis Serneels](https://twitter.com/alexisserneels) and [Valentin Rocher](https://tumblr.sweetlygeek.eu)
+* [French] - [Valentin Rocher](https://tumblr.sweetlygeek.eu)
 * [German] - [mr-ravioli](https://github.com/mr-ravioli) and [Jeremy Kescher](https://github.com/kescherCode)
 * [Hebrew] - [Damiano Venturin](https://github.com/damko) and Mali Shor
 * [Hindi] - [mindnuts](https://github.com/mindnuts)
