@@ -1,26 +1,32 @@
 # VEŘEJNÁ LICENCE NEBUĎ KOKOT
 
-> Verze 1.1, Prosinec 2016
+> Verze 1.1, Prosinec 2016  
+> Český překlad ver. 2: 2019-11-28 Martin Kolář <mrmartin.net>, Alice Vixie
 
-> Copyright (C) Philip Sturgeon <email@philsturgeon.co.uk>
-> Překlad Martin Kolář <mrmartin.net>
+> Copyright (C) _rok_ _plné_jméno_
  
- Každý smí kopírovat a distribuovat nezměněné nebo upravené
+ Každý smí kopírovat a distribuovat doslovné nebo upravené
  kopie tohoto licenčního dokumentu.
 
-> VEŘEJNÁ LICENCE NEBUĎ KOKOT
+> VEŘEJNÁ LICENCE NEBUĎ KOKOT  
 > PODMÍNKY PRO KOPÍROVÁNÍ, DISTRIBUCI A MODIFIKACI
 
- 1. Dělej cokoliv co se ti líbí s originálním dílem, jen nebuď kokot.
+1. Dělej s originálním dílem, co uznáš za vhodné, jen nebuď kokot.
 
-     Být kokot zahrnuje - ale není omezeno na - následující případy:
+	Být kokot zahrnuje - ale není omezeno na - následující případy:
 
-	 1a. Pokrytecké překračování autorských práv - Nezkopírujte dílo pod změněným názvem.
-	 1b. Prodávání nemodifikovaného originálu bez jakékoliv práce, to dělá jen SKUTEČNEJ kokot.
-	 1c. Úprava původního díla aby obsahovalo skrytý škodlivý obsah. To bys byl DĚSNĚJ kokot.
+	1a. Nepokryté překračování autorských práv - Nezkopíruj
+		pouze dílo pod změněným názvem.  
+	1b. Prodávání nemodifikovaného originálu bez jakékoliv práce,
+		to dělá jen SKUTEČNÝ kokot.  
+	1c. Úprava původního díla tak, aby obsahovalo skrytý škodlivý obsah.
+		To bys byl OPRAVDU kokot.  
 
- 2. Pokud se zbohatneš prostřednictvím úprav, souvisejících děl/služeb, nebo z poskytování podpory k původnímu dílu,
- sdílej lásku. Pouze kokot by vytěžil z této práce a nekoupil původnímu tvůrci (tvůrkyni, tvůrcům) pivko.
- 
- 3. Kód je poskytován bez záruk. Použití kódu jiného člověka a stežovat si, když nastanou problémy dělá jen OSLÍ kokot.
- Opravte problém sami. Slušnej ne-kokot opravu sdílí nebo předloží zprávu o chybě.
+2. Pokud zbohatneš prostřednictvím úprav, souvisejících děl/služeb
+	nebo poskytováním podpory k původnímu dílu, sdílej lásku.
+	Pouze kokot by těžil z cizí práce, aniž by koupil původním tvůrcům pivko.
+
+3. Kód je poskytován bez záruk. Použít kód jiného člověka a pak si stežovat,
+	když to nefunguje, to dělá jen kokot - OSEL.
+	Ne-kokot problém opraví sám a opravu pošle autorovi, nebo aspoň pošle
+	[zprávu o chybě](http://www.example.com/).

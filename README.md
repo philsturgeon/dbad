@@ -13,7 +13,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Bulgarian] - Ivan Yonov
 * [Chinese] - [Limi Quens](https://github.com/LimiQS) and [Jiang Chen](https://github.com/JC6)
 * [Traditional Chinese (Taiwan)] - [Yami Odymel](https://github.com/YamiOdymel)
-* [Czech] - [Martin Kolář](https://github.com/mrmartin)
+* [Czech] - [Martin Kolář](https://github.com/mrmartin), Alice Vixie
 * [Dutch] - John Schop
 * [Farsi/Persian] - [Majid Sadeghi G.](https://github.com/dijam)
 * [Finnish] - [39Bit](https://github.com/39bit)
