@@ -10,6 +10,7 @@ For those of you who want something in between, try the [DBAD license].
 
 * [Arabic] - [Ahmad Masabni](https://github.com/masabni)
 * [Bahasa Indonesia] - [Sentabi](https://github.com/sentabi)
+* [Bosnian] - [Izet Mulalic](https://github.com/kallefrombosnia)
 * [Bulgarian] - Ivan Yonov
 * [Chinese] - [Limi Quens](https://github.com/LimiQS) and [Jiang Chen](https://github.com/JC6)
 * [Traditional Chinese (Taiwan)] - [Yami Odymel](https://github.com/YamiOdymel)
@@ -41,6 +42,7 @@ For those of you who want something in between, try the [DBAD license].
 
 [Arabic]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ar.md
 [Bahasa Indonesia]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ID.md
+[Bosnian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ba.md
 [Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-bg.md
 [Chinese]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh.md
 [Traditional Chinese (Taiwan)]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh-tw.md
