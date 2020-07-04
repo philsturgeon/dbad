@@ -36,7 +36,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Greek] - [Thanos Korakas](https://github.com/tkorakas)
 
 
-[DBAD license]: https://github.com/philsturgeon/dbad/blob/master/LICENSE.md
+[DBAD license]: LICENSE.md
 [WTFPL]: http://www.wtfpl.net
 
 [Arabic]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ar.md
