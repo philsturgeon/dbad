@@ -1,11 +1,12 @@
 # DON'T BE A DICK PUBLIC LICENSE
 
+[Source](https://github.com/philsturgeon/dbad)
+
 > Version 1.1, December 2016
 
 > Copyright (C) [year] [fullname]
  
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document.
+ Everyone is permitted to copy and distribute verbatim or modified copies of this license document.
 
 > DON'T BE A DICK PUBLIC LICENSE
 > TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
@@ -23,4 +24,6 @@
  creator(s) a pint.
  
  3. Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes 
- you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back or submit a [bug report](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
+ you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back or submit a [bug report](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html).
+
+4. If you use code, calling it your own would make you a ROYAL dick. [How to cite a repo](https://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository). Alternatively, even just a comment giving attribution to where you found the code would be OK.

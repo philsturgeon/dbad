@@ -3,7 +3,7 @@
 > Version 1, December 2009
 
 > Copyright (C) 2009 Philip Sturgeon <email@philsturgeon.co.uk>
-> Traduit par Valentin Rocher <bishiboosh@gmail.com> et Alexis Serneels <http://twitter.com/AlexisSerneels>
+> Traduit par Valentin Rocher <bishiboosh@gmail.com>
  
  Chacun peut copier et distribuer des copies identiques ou
 modifiées de ce document. Dans le cas de modifications, le nom de l’auteur

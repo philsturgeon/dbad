@@ -8,16 +8,19 @@ For those of you who want something in between, try the [DBAD license].
 
 ## Translations
 
+* [Afrikaans] - [Wynand van Staden](https://github.com/runtugen)
 * [Arabic] - [Ahmad Masabni](https://github.com/masabni)
 * [Bahasa Indonesia] - [Sentabi](https://github.com/sentabi)
+* [Bosnian] - [Izet Mulalic](https://github.com/kallefrombosnia)
 * [Bulgarian] - Ivan Yonov
+* [Cantonese] - [Chung-hong Chan](https://github.com/chainsawriot/)
 * [Chinese] - [Limi Quens](https://github.com/LimiQS) and [Jiang Chen](https://github.com/JC6)
 * [Traditional Chinese (Taiwan)] - [Yami Odymel](https://github.com/YamiOdymel)
-* [Czech] - [Martin Kolář](https://github.com/mrmartin)
+* [Czech] - [Martin Kolář](https://github.com/mrmartin), Alice Vixie
 * [Dutch] - John Schop
 * [Farsi/Persian] - [Majid Sadeghi G.](https://github.com/dijam)
 * [Finnish] - [39Bit](https://github.com/39bit)
-* [French] - [Alexis Serneels](https://twitter.com/alexisserneels) and [Valentin Rocher](https://tumblr.sweetlygeek.eu)
+* [French] - [Valentin Rocher](https://tumblr.sweetlygeek.eu)
 * [German] - [mr-ravioli](https://github.com/mr-ravioli) and [Jeremy Kescher](https://github.com/kescherCode)
 * [Hebrew] - [Damiano Venturin](https://github.com/damko) and Mali Shor
 * [Hindi] - [mindnuts](https://github.com/mindnuts)
@@ -36,12 +39,15 @@ For those of you who want something in between, try the [DBAD license].
 * [Greek] - [Thanos Korakas](https://github.com/tkorakas)
 
 
-[DBAD license]: https://github.com/philsturgeon/dbad/blob/master/LICENSE.md
+[DBAD license]: LICENSE.md
 [WTFPL]: http://www.wtfpl.net
 
+[Afrikaans]:  https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-af.md
 [Arabic]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ar.md
 [Bahasa Indonesia]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ID.md
+[Bosnian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ba.md
 [Bulgarian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-bg.md
+[Cantonese]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh-yue.md
 [Chinese]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh.md
 [Traditional Chinese (Taiwan)]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-zh-tw.md
 [Czech]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-cz.md
