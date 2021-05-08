@@ -23,7 +23,7 @@ For those of you who want something in between, try the [DBAD license].
 * [French] - [Valentin Rocher](https://tumblr.sweetlygeek.eu)
 * [German] - [mr-ravioli](https://github.com/mr-ravioli) and [Jeremy Kescher](https://github.com/kescherCode)
 * [Hebrew] - [Damiano Venturin](https://github.com/damko) and Mali Shor
-* [Hindi] - [mindnuts](https://github.com/mindnuts)
+* [Hindi] - [mindnuts](https://github.com/mindnuts) and [Tushar Sadhwani](https://github.com/tusharsadhwani)
 * [Italian] - [StickGrinder](https://twitter.com/StickGrinder)
 * [Norwegian Bokmål] - [Imre Kristoffer Eilertsen](https://github.com/DandelionSprout)
 * [Norwegian Nynorsk] - [Imre Kristoffer Eilertsen](https://github.com/DandelionSprout)
