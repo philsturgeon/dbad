@@ -1,13 +1,13 @@
-# SEI KEIN ARSCHLOCH ÖFFENTLICHE LIZENZ
+# SEI-KEIN-ARSCHLOCH-ÖFFENTLICHE-LIZENZ
 
 > Version 1.1, Dezember 2016
 
 > Copyright (C) [Jahr] [Voller Name]
- 
+
  Jeder hat das Recht, Kopien dieses Dokuments anzufertigen
  und diese im selben Wortlaut oder in veränderter Form zu verbreiten.
 
-> SEI KEIN ARSCHLOCH ÖFFENTLICHE LIZENZ
+> SEI-KEIN-ARSCHLOCH-ÖFFENTLICHE-LIZENZ
 > BEDINGUNGEN FÜR DAS KOPIEREN, VERBREITEN UND VERÄNDERN
 
  1. Du kannst mit dem ursprünglichen Werk machen, was du willst, sei dabei einfach kein Arschloch.
