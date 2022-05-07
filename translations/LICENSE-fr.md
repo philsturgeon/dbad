@@ -32,4 +32,4 @@ doit en être modifié.
      Tentez de trouver la solution par vous-même. Un non-connard soumettrait même le
      correctif.
      
-  4. Si vous utilisez du code, en faire le vôtre ce serait être ROYALLEMENT un connard. [Comment citer un dépôt](https://academia-stackexchange-com.translate.goog/questions/14010/how-do-you-cite-a-github-repository?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp). Alternativement, même un simple commentaire donnant l'attribution à l'endroit où vous avez trouvé le code serait acceptable.
+  4. Si vous utilisez du code, vous l'attribuer fait de vous un connard SUPRÊME. [Comment citer un dépôt](https://academia-stackexchange-com.translate.goog/questions/14010/how-do-you-cite-a-github-repository?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp). Alternativement, même un simple commentaire donnant l'attribution à l'endroit où vous avez trouvé le code serait acceptable.
