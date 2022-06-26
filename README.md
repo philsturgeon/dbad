@@ -25,6 +25,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Hebrew] - [Damiano Venturin](https://github.com/damko) and Mali Shor
 * [Hindi] - [mindnuts](https://github.com/mindnuts) and [Tushar Sadhwani](https://github.com/tusharsadhwani)
 * [Italian] - [StickGrinder](https://twitter.com/StickGrinder)
+* [Korean] - [Daeyeol Ryu](https://github.com/yoobato)
 * [Norwegian Bokmål] - [Imre Kristoffer Eilertsen](https://github.com/DandelionSprout)
 * [Norwegian Nynorsk] - [Imre Kristoffer Eilertsen](https://github.com/DandelionSprout)
 * [Polish] - [Milosz Kosmider](https://github.com/mrmilosz)
@@ -61,6 +62,7 @@ For those of you who want something in between, try the [DBAD license].
 [Hindi]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-hi.md
 [Hungarian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-hu.md
 [Italian]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-it.md
+[Korean]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-ko.md
 [Norwegian Bokmål]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-nb.md
 [Norwegian Nynorsk]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-nn.md
 [Polish]: https://github.com/philsturgeon/dbad/blob/master/translations/LICENSE-pl.md
