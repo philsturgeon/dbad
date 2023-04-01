@@ -17,6 +17,6 @@ Tot lo monde a lo drech de copiar e distribuïr còpias identicas o modificadas 
  1b. La venta de l’òbra originala sens cap de modificacion, aquò es vertadièrament èsser una colha.
  1c. La modificacion de l’òbra originala per i inclure de contengut amagat e perilhós. Seriá èsser una colhassa.
 
-2. Se venètz pro ric gràcia a de modificacion, de trabalhs o servicis ligats o basats sus l’òbra originala, partejatz l’amor. Sonque una colha fariá d’argent amb aquesta òbra sens pagar una mièja al creator de l’òbra originala.
+2. Se venètz pro ric gràcia a de modificacions, de trabalhs o servicis ligats o basats sus l’òbra originala, partejatz l’amor. Sonque una colha fariá d’argent amb aquesta òbra sens pagar una mièja al creator de l’òbra originala.
 
 3. Lo còdi es provesit sens cap de garantida. Utilizar lo còdi de qualqu’un mai e romegar quand fonciona pas fa de vos una colha de las grandas. Reglatz lo problèma. Un non-pèc enviariá un correctiu en retorn.
