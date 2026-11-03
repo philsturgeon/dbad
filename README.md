@@ -11,6 +11,7 @@ For those of you who want something in between, try the [DBAD license].
 * [Afrikaans] - [Wynand van Staden](https://github.com/runtugen)
 * [Arabic] - [Ahmad Masabni](https://github.com/masabni)
 * [Bahasa Indonesia] - [Sentabi](https://github.com/sentabi)
+* [Bengali] - [unnho](https://github.com/unnho)
 * [Bosnian] - [Izet Mulalic](https://github.com/kallefrombosnia)
 * [Bulgarian] - Ivan Yonov
 * [Cantonese] - [Chung-hong Chan](https://github.com/chainsawriot/)
